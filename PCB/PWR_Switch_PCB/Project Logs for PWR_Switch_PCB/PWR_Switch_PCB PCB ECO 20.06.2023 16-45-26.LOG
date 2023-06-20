@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component C7 0.1 uF
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component C11 Cap C
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component C12 EEEFK1V471SV
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component C13 220uF 50v
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component D6 ES1J
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component D8 ES1J
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component DG1 15EDGVC-3.5-2P
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component U1 STM32F030F4P6
+Added Member To Class: ClassName=PWR_Switch_PCB Member=Component U3 IR2110S
