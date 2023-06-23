@@ -1,0 +1,125 @@
+Altium Designer Pick and Place Locations
+D:\Radio\Jobe\PWR_Switch_ETH\PCB\control_PWR_PCB\Project Outputs for control_PWR_PCB\Pick Place\Pick Place for control_PWR_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.06.23
+Time:       12:29
+Revision:   aa675e5648e93e065278c4f48c949f93273e0859
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                    
+DG2        15EDGVC-3.5-2P    TopLayer    23.4750mm    6.5365mm     90       ""                                                                                                                             
+C36        EEEFK1V471SV      TopLayer    52.1000mm    69.3750mm    180      "470AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 80mOhm @ 100kHz 2000 Hrs @ 105A°C"                              
+C35        EEEFK1V471SV      TopLayer    48.6750mm    41.7250mm    90       "470AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 80mOhm @ 100kHz 2000 Hrs @ 105A°C"                              
+VD6        ""                TopLayer    43.1501mm    91.8500mm    90       ""                                                                                                                             
+VD5        ""                TopLayer    36.6500mm    91.8500mm    90       ""                                                                                                                             
+T1         B78476A8065A003   TopLayer    28.0750mm    82.2498mm    90       "Magnetics Modules for LAN Application, 10/100 Base-T Magnetics Module, 1 Port, 0 to 70 degC, 16-Pin SMD, RoHS, Tape and Reel" 
+R44        "0603 1,5k"       TopLayer    11.5000mm    84.6250mm    270      Резистор                                                                                                                       
+R43        "0603 1,5k"       TopLayer    9.9250mm     84.6250mm    270      Резистор                                                                                                                       
+R42        "0603 220 Ом"     TopLayer    46.3250mm    91.2250mm    90       "Резистор SMD R0603"                                                                                                           
+R41        "0603 33R"        TopLayer    8.9000mm     70.9000mm    90       Резистор                                                                                                                       
+R40        "0603 75R"        TopLayer    19.1500mm    87.7000mm    90       Резистор                                                                                                                       
+R18        4.7k              TopLayer    53.9000mm    91.8500mm    270      Resistor                                                                                                                       
+R17        NC                TopLayer    58.9500mm    90.4500mm    270      Resistor                                                                                                                       
+C34        "0603 18 пФ"      TopLayer    7.0250mm     81.6750mm    360      "Керамическтй конденсатор SMD C0603"                                                                                           
+XP4        PLS-3             TopLayer    38.1850mm    4.6250mm     180      "Connector, 3-Pin"                                                                                                             
+R16        10k               TopLayer    41.2000mm    14.0500mm    180      Resistor                                                                                                                       
+R15        10k               TopLayer    41.2000mm    11.4750mm    180      Resistor                                                                                                                       
+R14        NC                BottomLayer 66.8250mm    82.4750mm    270      Resistor                                                                                                                       
+R13        0                 TopLayer    27.1000mm    15.2000mm    180      Resistor                                                                                                                       
+R12        120R              TopLayer    44.3250mm    4.9000mm     90       Resistor                                                                                                                       
+R11        0                 TopLayer    27.1000mm    11.9000mm    180      Resistor                                                                                                                       
+ISO1       ISO7241           TopLayer    21.9500mm    26.4250mm    270      ""                                                                                                                             
+DG1        15EDGVC-3.5-2P    TopLayer    62.7750mm    6.6230mm     90       ""                                                                                                                             
+DD2        MAX485            TopLayer    35.3750mm    13.4600mm    180      "Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceiver"                                                                       
+D3         SM712             TopLayer    20.9500mm    13.2000mm    360      "Asymmetrical TVS Diode for Extended Common-Mode RS-485"                                                                       
+D2         AM1DS-0505SJZ     TopLayer    39.2750mm    30.0650mm    270      ""                                                                                                                             
+C33        0.1uF             TopLayer    39.0500mm    8.9500mm     180      ""                                                                                                                             
+C32        0.1uF             TopLayer    28.6500mm    21.9500mm    270      ""                                                                                                                             
+C31        0.1uF             TopLayer    28.5000mm    32.0750mm    90       ""                                                                                                                             
+C3         10uF              TopLayer    31.7750mm    22.1250mm    270      ""                                                                                                                             
+R39        510R              TopLayer    23.8250mm    57.8250mm    180      Resistor                                                                                                                       
+X5         25Mhz             TopLayer    6.4750mm     84.8250mm    90       ""                                                                                                                             
+X4         12Mhz             TopLayer    16.4500mm    62.2500mm    270      ""                                                                                                                             
+X3         PLS-5             TopLayer    29.8750mm    62.4500mm    270      "Header, 5-Pin"                                                                                                                
+R10        "0603 1k"         TopLayer    68.1750mm    39.3250mm    270      ""                                                                                                                             
+R9         "0603 3k"         TopLayer    68.1750mm    42.8750mm    90       ""                                                                                                                             
+C1         "220uF 50v"       TopLayer    48.7000mm    29.7250mm    180      "Polarized Capacitor (Rad)"                                                                                                    
+XP3        UART              TopLayer    9.3750mm     31.4250mm    180      Ter120                                                                                                                         
+C20        "0603 0.1uF"      TopLayer    5.2750mm     74.9750mm    180      ""                                                                                                                             
+X2         PLD-10R           TopLayer    9.5800mm     100.6200mm   90       "Header, 5-Pin, Dual row"                                                                                                      
+XP2        "reset setings"   TopLayer    37.7500mm    69.7250mm    180      Ter120                                                                                                                         
+XP1        Battery           TopLayer    36.7000mm    52.5500mm    90       ""                                                                                                                             
+X1         PBD-10R           TopLayer    63.6200mm    100.6200mm   270      "Header, 5-Pin, Dual row"                                                                                                      
+VR1        LM1117MPX-3.3     TopLayer    55.8500mm    81.8750mm    180      "800-mA 15-V linear voltage regulator"                                                                                         
+VD4        ""                TopLayer    2.2750mm     5.5250mm     90       ""                                                                                                                             
+VD3        ""                TopLayer    8.9250mm     5.5250mm     90       ""                                                                                                                             
+VD2        ""                TopLayer    5.6000mm     5.5250mm     90       ""                                                                                                                             
+VD1        ""                TopLayer    51.6250mm    7.0000mm     90       ""                                                                                                                             
+U1         STM32F407V        TopLayer    14.6250mm    48.0500mm    270      "ARMA® CortexA®-M4 STM32F3 Microcontroller IC 32-Bit 72MHz 100-LQFP (14x14)"                                                   
+S2         SW-DIP4           TopLayer    53.3000mm    101.2250mm   90       "DIP Switch"                                                                                                                   
+S1         SW-DIP4           TopLayer    42.4500mm    101.2250mm   90       "DIP Switch"                                                                                                                   
+R38        "0603 75R"        TopLayer    17.5500mm    87.7000mm    90       Резистор                                                                                                                       
+R37        "0603 75R"        TopLayer    19.1500mm    84.7250mm    270      Резистор                                                                                                                       
+R36        "0603 75R"        TopLayer    17.5250mm    84.7250mm    270      Резистор                                                                                                                       
+R35        "0603 220 Ом"     TopLayer    39.8249mm    91.2250mm    90       "Резистор SMD R0603"                                                                                                           
+R34        "0603 12.1k"      TopLayer    13.7500mm    84.6250mm    90       Резистор                                                                                                                       
+R33        "0603 33R"        TopLayer    6.1500mm     70.9000mm    90       Резистор                                                                                                                       
+R32        "0603 10k"        TopLayer    4.5500mm     70.8500mm    90       Резистор                                                                                                                       
+R31        "0603 33R"        TopLayer    5.4000mm     78.1500mm    360      Резистор                                                                                                                       
+R30        "0603 33R"        TopLayer    5.3750mm     76.6000mm    360      Резистор                                                                                                                       
+R29        "0603 50R"        TopLayer    16.3000mm    73.7500mm    90       Резистор                                                                                                                       
+R28        "0603 50R"        TopLayer    16.3000mm    70.9250mm    270      Резистор                                                                                                                       
+R27        "0603 50R"        TopLayer    16.3000mm    79.6250mm    90       Резистор                                                                                                                       
+R26        "0603 50R"        TopLayer    16.3000mm    76.8000mm    270      Резистор                                                                                                                       
+R25        4.7k              TopLayer    55.6750mm    91.8750mm    270      Resistor                                                                                                                       
+R24        3K                TopLayer    2.3498mm     9.8500mm     270      Resistor                                                                                                                       
+R23        0                 TopLayer    34.3500mm    51.3250mm    90       Resistor                                                                                                                       
+R22        3K                TopLayer    8.8498mm     9.8500mm     270      Resistor                                                                                                                       
+R21        3K                TopLayer    5.6747mm     9.8500mm     270      Resistor                                                                                                                       
+R20        510R              TopLayer    25.6250mm    52.9750mm    180      Resistor                                                                                                                       
+R19        10K               TopLayer    55.2000mm    6.7000mm     90       Resistor                                                                                                                       
+R8         10K               BottomLayer 57.9250mm    102.5749mm   90       ""                                                                                                                             
+R7         10K               BottomLayer 55.1250mm    102.5749mm   90       ""                                                                                                                             
+R6         10K               BottomLayer 52.3250mm    102.5749mm   90       ""                                                                                                                             
+R5         10K               BottomLayer 49.5250mm    102.5750mm   90       ""                                                                                                                             
+R4         10K               BottomLayer 46.3000mm    102.5750mm   90       ""                                                                                                                             
+R3         10K               BottomLayer 43.5000mm    102.5749mm   90       ""                                                                                                                             
+R2         10K               BottomLayer 40.7000mm    102.5749mm   90       ""                                                                                                                             
+R1         10K               BottomLayer 37.9000mm    102.5749mm   90       ""                                                                                                                             
+L1         SRR1208-6R5ML     TopLayer    60.5000mm    56.6000mm    360      "6.5AµH Shielded Wirewound Inductor 6A 18mOhm Max Nonstandard"                                                                 
+J1         5520259-4         TopLayer    24.1250mm    95.9300mm    180      "Jack Modular Connector 8p8c _RJ45, Ethernet_ Vertical Unshielded Cat3"                                                        
+IC2        LAN8742A-CZ-TR    TopLayer    11.0800mm    78.0250mm    270      ""                                                                                                                             
+IC1        GD25Q16CTIGR      TopLayer    29.9750mm    45.6750mm    270      "128M-bit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI and QPI"                                              
+DD1        LM2596S-ADJ       TopLayer    60.9500mm    35.3500mm    270      "SIMPLE SWITCHER® Power Converter 150 KHz 3A Step-Down Voltage Regulator, 5-pin TO-263"                                        
+D1         MBRS540T3G        TopLayer    60.4750mm    46.0750mm    180      "Diode Schottky 40V 5A Surface Mount SMC"                                                                                      
+C30        "0805 2.2uF"      TopLayer    4.2000mm     41.3750mm    90       ""                                                                                                                             
+C29        "0603 18 пФ"      TopLayer    6.0500mm     88.0000mm    180      "Керамическтй конденсатор SMD C0603"                                                                                           
+C28        "0603 0.1uF"      TopLayer    6.7000mm     60.6500mm    90       ""                                                                                                                             
+C27        "0603 0.1uF"      TopLayer    5.1000mm     37.9500mm    180      ""                                                                                                                             
+C26        "TECAP B 10u 16V" TopLayer    11.6250mm    66.6000mm    270      "Solid Tantalum Surface Mount Capacitors"                                                                                      
+C25        "0603 1uF"        TopLayer    2.7000mm     81.8000mm    180      ""                                                                                                                             
+C24        "0603 0.1uF"      TopLayer    3.4750mm     79.8500mm    180      ""                                                                                                                             
+C23        "1206 1000p 2kv"  TopLayer    11.5250mm    91.2500mm    180      ""                                                                                                                             
+C22        "0603 0.1uF"      TopLayer    12.9575mm    70.7675mm    180      ""                                                                                                                             
+C21        "0603 0.1uF"      TopLayer    11.7500mm    87.4000mm    360      ""                                                                                                                             
+C19        "0603 0.001uF"    TopLayer    12.4750mm    60.7000mm    270      ""                                                                                                                             
+C18        "0603 0.1uF"      TopLayer    10.7750mm    60.6750mm    270      ""                                                                                                                             
+C17        "0603 18 пФ"      TopLayer    15.7694mm    65.3250mm    180      "Керамическтй конденсатор SMD C0603"                                                                                           
+C16        "0603 0.1uF"      TopLayer    19.7250mm    61.9250mm    270      ""                                                                                                                             
+C15        "0603 18 пФ"      TopLayer    17.2500mm    59.1500mm    180      "Керамическтй конденсатор SMD C0603"                                                                                           
+C14        "0603 0.1uF"      TopLayer    22.9000mm    62.1250mm    270      ""                                                                                                                             
+C13        "0603 0.1uF"      TopLayer    20.3750mm    70.2000mm    360      "Керамическтй конденсатор SMD C0603"                                                                                           
+C12        "0603 0.1uF"      TopLayer    18.2500mm    80.4000mm    270      "Керамическтй конденсатор SMD C0603"                                                                                           
+C11        "0805 2.2uF"      TopLayer    21.0500mm    37.9000mm    0        ""                                                                                                                             
+C10        "0603 0.1uF"      TopLayer    24.5750mm    38.2250mm    270      ""                                                                                                                             
+C9         "Cap T"           TopLayer    36.7750mm    85.7500mm    90       "Solid Tantalum Surface Mount Capacitors"                                                                                      
+C8         "0603 0.1uF"      TopLayer    20.4000mm    79.1500mm    270      ""                                                                                                                             
+C7         "0603 0.1uF"      TopLayer    25.3250mm    55.6750mm    360      ""                                                                                                                             
+C6         "0603 0.1uF"      TopLayer    35.9250mm    79.1500mm    270      ""                                                                                                                             
+C5         "0603 0.1uF"      TopLayer    34.1500mm    44.6500mm    90       ""                                                                                                                             
+C4         "220uF 50v"       TopLayer    64.3000mm    69.5000mm    270      "Polarized Capacitor (Rad)"                                                                                                    
+C2         "Cap C"           TopLayer    48.9500mm    80.3000mm    90       "Ceramic Capacitor"                                                                                                            
