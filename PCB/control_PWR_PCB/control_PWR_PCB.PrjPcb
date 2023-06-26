@@ -88,6 +88,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNUBCOAR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for control_PWR_PCB\BOM\Bill of Materials-control_PWR_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for control_PWR_PCB\NC Drill\control_PWR_PCB-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for control_PWR_PCB\NC Drill\control_PWR_PCB-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for control_PWR_PCB\NC Drill\control_PWR_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for control_PWR_PCB\NC Drill\control_PWR_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for control_PWR_PCB\Gerber\control_PWR_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for control_PWR_PCB\Design Rule Check - control_PWR_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for control_PWR_PCB\Pick Place\Pick Place for control_PWR_PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for control_PWR_PCB\Pick Place\Pick Place for control_PWR_PCB.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
