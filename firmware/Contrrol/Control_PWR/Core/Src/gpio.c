@@ -89,7 +89,7 @@ void MX_GPIO_Init(void)
   GPIO_InitStruct.Pin = MAC_b0_Pin|MAC_b1_Pin|MAC_b2_Pin|MAC_b3_Pin
                           |MAC_b4_Pin|MAC_b5_Pin|MAC_b6_Pin|MAC_b7_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
-  GPIO_InitStruct.Pull = GPIO_PULLUP;
+  GPIO_InitStruct.Pull = GPIO_PULLDOWN;
   HAL_GPIO_Init(GPIOD, &GPIO_InitStruct);
 
   /*Configure GPIO pins : PA9 PA10 */
