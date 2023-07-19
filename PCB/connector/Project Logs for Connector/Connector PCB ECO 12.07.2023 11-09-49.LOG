@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=X1 Old Footprint=PLS-5-3D New Footprint=PLD-10-3D
+Change Component Footprint: Designator=X2 Old Footprint=PLS-5-3D New Footprint=PLD-10-3D
+Change Component Comment : Designator=X1 Old Comment= New Comment=PLD-10
+Change Component Comment : Designator=X2 Old Comment= New Comment=PLD-10
+Change component parameters: Designator = "X1" ("X1"); Footprint = "PLS-5-3D"; UniqueID = "\NTAMTWZQ" ("\NTAMTWZQ")
+Change component parameters: Designator = "X2" ("X2"); Footprint = "PLS-5-3D"; UniqueID = "\YZPFUHJM" ("\YZPFUHJM")
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X2-2
+Added Net: Name=NetX1_1
+Added Pin To Net: NetName=NetX1_2 Pin=X1-2
+Added Pin To Net: NetName=NetX1_2 Pin=X2-1
+Added Net: Name=NetX1_2
+Added Pin To Net: NetName=NetX1_3 Pin=X1-3
+Added Pin To Net: NetName=NetX1_3 Pin=X2-4
+Added Net: Name=NetX1_3
+Added Pin To Net: NetName=NetX1_4 Pin=X1-4
+Added Pin To Net: NetName=NetX1_4 Pin=X2-3
+Added Net: Name=NetX1_4
+Added Pin To Net: NetName=NetX1_5 Pin=X1-5
+Added Pin To Net: NetName=NetX1_5 Pin=X2-6
+Added Net: Name=NetX1_5
+Added Pin To Net: NetName=NetX1_6 Pin=X1-6
+Added Pin To Net: NetName=NetX1_6 Pin=X2-5
+Added Net: Name=NetX1_6
+Added Pin To Net: NetName=NetX1_7 Pin=X1-7
+Added Pin To Net: NetName=NetX1_7 Pin=X2-8
+Added Net: Name=NetX1_7
+Added Pin To Net: NetName=NetX1_8 Pin=X1-8
+Added Pin To Net: NetName=NetX1_8 Pin=X2-7
+Added Net: Name=NetX1_8
+Added Pin To Net: NetName=NetX1_9 Pin=X1-9
+Added Pin To Net: NetName=NetX1_9 Pin=X2-10
+Added Net: Name=NetX1_9
+Added Pin To Net: NetName=NetX1_10 Pin=X1-10
+Added Pin To Net: NetName=NetX1_10 Pin=X2-9
+Added Net: Name=NetX1_10
+Added Class: Name=Connector

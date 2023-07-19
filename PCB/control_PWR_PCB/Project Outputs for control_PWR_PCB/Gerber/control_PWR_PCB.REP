@@ -2,60 +2,6 @@
 FileName = control_PWR_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : control_PWR_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : control_PWR_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D14
-    D26
-    D32
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : control_PWR_PCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D17
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : control_PWR_PCB.GTP
 
@@ -99,6 +45,53 @@ Used DCodes :
     D52
     D53
     D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : control_PWR_PCB.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D108
+    D110
+    D111
+    D112
+    D113
+    D115
+    D119
+    D122
+    D123
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : control_PWR_PCB.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D111
+    D112
+    D113
+    D115
+    D118
+    D119
+    D122
+    D123
 *************************************************************
 
 *************************************************************
@@ -109,6 +102,32 @@ Generating : Board
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : control_PWR_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : control_PWR_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D17
 *************************************************************
 
 *************************************************************
@@ -123,8 +142,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D55
-    D56
     D57
     D58
     D59
@@ -169,6 +186,22 @@ Used DCodes :
     D98
     D99
     D100
+    D101
+    D102
+    D103
+    D104
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : control_PWR_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
@@ -195,29 +228,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Layer 3
-      File : control_PWR_PCB.G2
-
-    Adding Layer      : Layer 3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D103
-    D104
-    D105
-    D106
-    D107
-    D109
-    D113
-    D116
-    D117
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : control_PWR_PCB.GBS
 
@@ -229,11 +239,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D58
-    D87
-    D88
-    D89
-    D90
+    D57
     D91
     D92
     D93
@@ -244,7 +250,11 @@ Used DCodes :
     D98
     D99
     D100
-    D119
+    D101
+    D102
+    D103
+    D104
+    D105
 *************************************************************
 
 *************************************************************
@@ -294,11 +304,8 @@ Used DCodes :
     D52
     D53
     D54
-    D101
-    D102
-    D103
-    D104
-    D105
+    D55
+    D56
     D106
     D107
     D108
@@ -311,38 +318,17 @@ Used DCodes :
     D115
     D116
     D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
 *************************************************************
 
 *************************************************************
-Generating : Layer 2
-      File : control_PWR_PCB.G1
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D17
-    D18
-    D104
-    D105
-    D106
-    D107
-    D109
-    D112
-    D113
-    D116
-    D117
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : control_PWR_PCB.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : control_PWR_PCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -350,7 +336,23 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D26
+    D11
+    D23
+    D33
+    D108
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
     D118
+    D119
+    D120
+    D121
+    D122
+    D123
 *************************************************************
 
