@@ -4,9 +4,9 @@ D:\Radio\Jobe\PWR_Switch_ETH\PCB\control_PWR_PCB\Project Outputs for control_PWR
 ========================================================================================================================
 File Design Information:
 
-Date:       12.07.23
-Time:       17:32
-Revision:   12a14d73e190f4aa7e15e5f6f14bc08febb88399
+Date:       31.07.23
+Time:       13:36
+Revision:   2624e4c7ec2e704d2beb3a76795be312e54c785c
 Variant:    No variations
 Units used: mm
 
@@ -40,7 +40,7 @@ D2         AM1DS-0505SJZ     TopLayer    39.2750mm    30.0650mm    270      ""
 C33        0.1uF             TopLayer    39.0500mm    8.9500mm     180      ""                                                                                                                             
 C32        0.1uF             TopLayer    28.6500mm    21.9500mm    270      ""                                                                                                                             
 C31        0.1uF             TopLayer    28.5000mm    32.0750mm    90       ""                                                                                                                             
-C3         10uF              TopLayer    31.7750mm    22.1250mm    270      ""                                                                                                                             
+C3         "Cap C"           TopLayer    31.7750mm    22.1250mm    270      "Ceramic Capacitor"                                                                                                            
 R39        510R              TopLayer    23.8250mm    57.8250mm    180      Resistor                                                                                                                       
 X5         25Mhz             TopLayer    6.4750mm     84.8250mm    90       ""                                                                                                                             
 X4         12Mhz             TopLayer    16.4500mm    62.2500mm    270      ""                                                                                                                             
@@ -61,7 +61,7 @@ VD2        ""                TopLayer    5.6000mm     5.5250mm     90       ""
 VD1        ""                TopLayer    51.6250mm    7.0000mm     90       ""                                                                                                                             
 U1         STM32F407V        TopLayer    14.6250mm    48.0500mm    270      "ARMA® CortexA®-M4 STM32F3 Microcontroller IC 32-Bit 72MHz 100-LQFP (14x14)"                                                   
 S2         SW-DIP4           TopLayer    52.0750mm    96.7750mm    90       "DIP Switch"                                                                                                                   
-S1         SW-DIP4           TopLayer    41.2250mm    96.7750mm    90       "DIP Switch"                                                                                                                   
+S1         SW-DIP4           TopLayer    40.7250mm    96.7750mm    90       "DIP Switch"                                                                                                                   
 R38        "0603 75R"        TopLayer    17.5500mm    87.7000mm    90       Ðåçèñòîð                                                                                                                       
 R37        "0603 75R"        TopLayer    19.1500mm    84.7250mm    270      Ðåçèñòîð                                                                                                                       
 R36        "0603 75R"        TopLayer    17.5250mm    84.7250mm    270      Ðåçèñòîð                                                                                                                       
