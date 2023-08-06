@@ -33,7 +33,7 @@
 /* USER CODE BEGIN PTD */
 __IO uint32_t     Transfer_Direction = 0;
 __IO uint32_t     Xfer_Complete = 0;
-#define ln_ch 5 //chanels for adc
+#define ln_ch 2 //chanels for adc
 
 /* USER CODE END PTD */
 
@@ -128,7 +128,7 @@ int main(void)
   {SET_BIT(OwnAddr,1<<4);}
   else {CLEAR_BIT(OwnAddr,1<<4);}
   //Bit5
-  SET_BIT(OwnAddr,1<<5);
+  //SET_BIT(OwnAddr,1<<5);
 
   /* USER CODE END SysInit */
 
@@ -170,7 +170,7 @@ int main(void)
 			en1 = aRxBuffer[5];
 			PWM2 = aRxBuffer[6] |(aRxBuffer[7] << 8)|(aRxBuffer[8] << 16)|(aRxBuffer[9] << 24);
 			en2 = aRxBuffer[10];
-			PWM3 = aRxBuffer[11] |(aRxBuffer[11] << 8)|(aRxBuffer[13] << 16)|(aRxBuffer[14] << 24);
+			PWM3 = aRxBuffer[11] |(aRxBuffer[12] << 8)|(aRxBuffer[13] << 16)|(aRxBuffer[14] << 24);
 			en3 = aRxBuffer[15];
 
 			for (int i = 0; i < RXBUFFERSIZE; ++i) {
@@ -195,8 +195,8 @@ int main(void)
 			// Запретить прерывания IRQ
 			__disable_irq ();
 
-			aTxBuffer[4] = adc_buffer[2]&0xFF;
-			aTxBuffer[5] = (adc_buffer[2]>>8)&0xFF;
+			//aTxBuffer[4] = 0;
+			//aTxBuffer[5] = 0;
 
 			aTxBuffer[11] = adc_buffer[1]&0xFF;
 			aTxBuffer[12] = (adc_buffer[1]>>8)&0xFF;
@@ -318,7 +318,7 @@ void HAL_UART_ErrorCallback(UART_HandleTypeDef *huart)
 
                 if (er & HAL_UART_ERROR_PE)
                 {
-                        __HAL_UART_CLEAR_PEFLAG(&huart1);
+                	__HAL_UART_CLEAR_PEFLAG(&huart1);
                 }
                 if (er & HAL_UART_ERROR_NE)
                 {
