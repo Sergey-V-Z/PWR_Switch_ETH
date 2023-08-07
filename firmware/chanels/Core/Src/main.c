@@ -118,7 +118,6 @@ int main(void)
 	MX_USART1_UART_Init();
 	/* USER CODE BEGIN 2 */
 
-
 	//Bit0
 	if (LL_GPIO_IsInputPinSet(A0_GPIO_Port, A0_Pin))
 	{SET_BIT(OwnAddr,1<<0);}
